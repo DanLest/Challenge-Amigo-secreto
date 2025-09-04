@@ -1,16 +1,15 @@
 
 # Amigo Secreto  
 
-Este proyecto consiste en una aplicación web sencilla cuyo propósito es facilitar la organización del juego **Amigo Secreto**.  
+Este proyecto consiste en la implementacion de lo aprendido durante mi trayecto en Alura, es una app web sencilla cuyo proposito es seleccionar el **Amigo Secreto**.  
 
 ## Descripción  
 
-El sistema permite registrar a tus amigos mediante la introducción de sus nombres en una lista. Una vez añadidos todos los nombres, la aplicación ofrece la posibilidad de realizar un **sorteo aleatorio** que selecciona a uno de los participantes como el “amigo secreto”.  
+La app permite introducir el nombre de tus amigos y los organiza en una lista conforme los vas agregando (No de manera alfabetica). Una vez añadidos todos los nombres, la app procede a realizar un **sorteo aleatorio** que selecciona a algun miembro de la lista como el “amigo secreto”.  
 
 ## Objetivo  
 
-El objetivo principal es brindar una herramienta digital que automatice el proceso de selección del Amigo Secreto, eliminando la necesidad de realizar el sorteo de manera manual y reduciendo posibles errores.  
-
+El objetivo de este juego es facilitar a las personas realizar un sorteo para seleccionar a un amigo secreto sin que se repitan nombres y sin necesidad de realizarlo a mano con papeles.
 
 
 ## Funcionalidad
